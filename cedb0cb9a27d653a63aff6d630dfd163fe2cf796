@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1969be_011da073",
+        "filename": "python-taskflow.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1002548
+      },
+      "writtenOn": "2015-02-27T12:23:41Z",
+      "side": 1,
+      "message": "Should this also add ?\n    Requires:         python-pbr",
+      "revId": "cedb0cb9a27d653a63aff6d630dfd163fe2cf796",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
