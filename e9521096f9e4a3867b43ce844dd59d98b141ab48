@@ -1,0 +1,7 @@
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Verified+1: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Sun, 26 Apr 2015 19:25:09 +0200
+Reviewed-on: https://review.gerrithub.io/231351
+Project: openstack-packages/python-taskflow
+Branch: refs/heads/rpm-master
