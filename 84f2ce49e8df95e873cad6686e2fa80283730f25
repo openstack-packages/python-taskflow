@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <brad+jenkins@redhat.com>
+Code-Review+2: Dan Prince <dprince@redhat.com>
+Submitted-by: Dan Prince <dprince@redhat.com>
+Submitted-at: Wed, 26 Aug 2015 21:31:49 +0200
+Reviewed-on: https://review.gerrithub.io/244180
+Project: openstack-packages/python-taskflow
+Branch: refs/heads/rpm-master
